@@ -1,0 +1,72 @@
+body{
+	font-family: 'Barlow Condensed', sans-serif;
+}
+
+.bg{
+	background-image: url('https://www.africalegalnetwork.com/nigeria/wp-content/uploads/sites/19/2017/08/Banking.jpg');
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: auto;
+}
+
+.navbar{
+	padding: 10px;
+}
+
+nav{
+	background: #FF416C;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-size: 25px;
+}
+
+nav a{
+	color: #ccffee;
+}
+
+nav a:hover{
+	color: #999;
+	text-decoration: none;
+}
+
+#menu{
+	float: left;
+}
+
+#menu a{
+	text-decoration: none;
+	display: inline;
+	color: white;
+	margin-left: 10px;
+	margin-top: 5px;
+	font-size: 20px;
+}
+
+#menu a:hover{
+	color: #AFED50;
+}
+
+.btn-bg{
+	background: #333333;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	color: white;
+}
+
+.font-lg{
+	font-size: 70px;
+	color: #eee;
+}
+
+.font-cus{
+	display: block;
+	float: center;
+	font-size: 30px;
+	color: #272727;
+}
+.us{
+	color: red;
+}
+.s{
+	color: green;
+}
